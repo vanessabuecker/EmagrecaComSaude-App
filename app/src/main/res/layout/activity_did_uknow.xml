@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".DidUknowActivity">
+
+        <ImageView
+            android:id="@+id/water"
+            android:layout_width="wrap_content"
+            android:layout_height="217dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="30dp"
+            android:src="@drawable/water"
+            tools:layout_conversion_absoluteHeight="200dp"
+            tools:layout_conversion_absoluteWidth="351dp"
+            tools:layout_editor_absoluteX="30dp"
+            tools:layout_editor_absoluteY="14dp" />
+
+        <TextView
+            android:id="@+id/beneficios_da_agua_txtview"
+            style="@style/TextViewForm"
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/beneficios_agua" />
+
+        <Button
+            android:id="@+id/bt_remember_drinkwater"
+            android:onClick="notifyClick"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ativar_lembrete"
+            android:backgroundTint="@color/azul_marinho"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginBottom="20dp"
+
+            />
+
+
+    </LinearLayout>
+</ScrollView>

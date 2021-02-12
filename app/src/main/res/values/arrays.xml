@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tmb_life_style">
+        <item> Pouco ou nenhum exercício.</item>
+        <item> Exercício leve. De um a três dias por semana.</item>
+        <item> Exercício moderador. De três a cinco dias por semana.</item>
+        <item> Exercício pesado. De seis a sete dias por semana.</item>
+        <item> Exercício pesado diariamente. Até duas vezes por dia.</item>
+    </string-array>
+
+</resources>

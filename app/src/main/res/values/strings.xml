@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Emagreça com Saúde</string>
+    <string name="calc">Calcular</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="imc_desc">IMC é a sigla para Índice de Massa Corporal,que é um cálculo que serve
+        para avaliar se a pessoa está dentro do seu peso ideal em relação à altura.
+        Assim, de acordo com o valor do resultado de IMC, a pessoa pode saber se está dentro do peso ideal,
+        acima ou abaixo do peso desejado.\n\nPreencha os campos de peso e altura para descobrir o seu IMC.</string>
+    <string name="label_imc">IMC</string>
+    <string name="fields_messages">Todos os campos devem ser maiores que zero.</string>
+
+    <string name="imc_severely_low_weight">Severamente abaixo do peso</string>
+    <string name="imc_very_low_weight">Muito abaixo do peso</string>
+    <string name="imc_low_weight">Abaixo do peso</string>
+    <string name="normal">Normal</string>
+    <string name="imc_high_weight">Acima do peso</string>
+    <string name="imc_so_high_weight">Moderadamente obeso</string>
+    <string name="imc_severely_high_weight">Severamente obeso</string>
+    <string name="imc_extreme_weight">Extremamente obeso</string>
+    <string name="imc_response">Imc: %1$.2f</string>
+    <string name="tmb_response">TMB: %1$.2f</string>
+    <string name="label_tmb">TMB</string>
+    <string name="save">Salvar</string>
+    <string name="saved">Registro salvo com sucesso</string>
+    <string name="search">Buscar</string>
+    <string name="tmb_desc">TMB é o calculo para descobrir a quantidade calórica que o corpo necessita, com base no seu estilo de vida.</string>
+    <string name="age">Idade</string>
+    <string name="list_response">Resultado: %1$.2f, Data: %2$s</string>
+    <string name="did_you_know">Você sabia?</string>
+    <string name="beneficios_agua">Beber mais água pode ser uma boa estratégia para ajudar quem está querendo emagrecer,
+        não só porque a água não tem calorias e ajuda a manter o estômago cheio, mas porque também parece aumentar o metabolismo e a queima de calorias. \n\n<b>Mais benefícios</b>\n\n
+        E os goles de água fazem muito mais do que ajudar na perda de peso. Geralmente, o líquido carrega pitadas de sais minerais, como magnésio, sódio e potássio.
+        Também ajuda a regular a temperatura do corpo e eliminar substâncias não utilizadas pelo organismo. “A água ainda compõe aproximadamente 60% do peso corporal do homem e 50% da mulher.
+        E participa de todas as reações enzimáticas do organismo humano”, salienta a nutricionista Fernanda Alves, do Hospital Samaritano de São Paulo. Sem contar que hidrata a parede do intestino, fazendo-o
+        funcionar melhor, e promove uma verdadeira faxina, mandando para fora, pela urina, o excesso de sais que sobrecarregam os rins. Daí, os inchaços diminuem.
+        De quebra, sua ingestão favorece a absorção dos nutrientes responsáveis pelo equilíbrio e pela hidratação da pele, o que a deixa mais bonita e evita, indiretamente, o aparecimento de rugas e marcas de expressão.
+        Auxilia até mesmo no combate a problemas respiratórios. Isso porque ajuda as mucosas a produzirem secreções que mandam micro-organismos estranhos para as cucuias. Enfim,
+        não há célula, tecido ou órgão que escapem de sua ação.\n\nPorém, para desfrutar de tantos benefícios, é necessário sorver, no mínimo, 1,5 litro por dia. “Diariamente, o corpo perde de 1,5 a 2 litros de água e sais minerais
+        por meio de suor, urina, fezes e até mesmo lágrimas. Isso precisa ser reposto para mantê-lo em forma e saudável”.\n\n
+        <b>Não espere a sede chegar</b>\n\n
+        “É a desidratação que faz o cérebro acionar a sensação de sede. Portanto, ela só aparece quando o corpo já está desidratado”, afirma a nutricionista Danielle Fava. A cor e a quantidade de urina sinalizam como anda a sua hidratação –
+        se estiver escura e pouco volumosa, é um indício de que o corpo está com uma baixa oferta do líquido.\n\n
+        <b>Para a digestão, basta um copo</b>\n\n
+        Ao contrário do que muitos pensam, beber água durante as refeições faz, sim, bem ao organismo, já que o ajuda a digerir a comida. Só não vale exagerar.
+        “Muito líquido acaba por diluir o suco gástrico presente no estômago, fazendo o efeito inverso”,
+        esclarece a nutricionista Silvia Papini. Para acompanhar um bom prato, um copo de 200 ml está de bom tamanho.\n\n
+        Gostaria de ativar o lembrete de notificação para que não se esqueça de se manter hidratado?
+        Clique em "<b>ATIVAR LEMBRETE</b>" e ative o lembrete.
+
+
+    </string>
+    <string name="empty">" "</string>
+    <string name="ativar_lembrete">Ativar lembrete</string>
+    <string name="notify">Notificar</string>
+    <string name="hint">intervalo(minutos)</string>
+
+</resources>
